@@ -1,2 +1,2 @@
 # dachor
-A hybrid wearable medical device developed to restore foot mobility of stroke patients
+Delivering next generation clinical care to ankle-foot rehabilitation with neurostimulation and advanced robotics
